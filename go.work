@@ -1,6 +1,7 @@
-go 1.21.0
+go 1.23
 
 use (
     ./simple-bookshop-api
     ./user-management-api/app
+    ./jwt-auth/app
 )

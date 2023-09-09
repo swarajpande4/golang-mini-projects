@@ -33,7 +33,7 @@ with Golang using the Gin-gonic framework and MongoDB.
 - To build and run the container,
     ```
     podman build . -t app
-    dock run app
+    podman run app
     ```
 
 ### References:
